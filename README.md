@@ -1,1 +1,1 @@
-# C23 sol
+# C23 solución
